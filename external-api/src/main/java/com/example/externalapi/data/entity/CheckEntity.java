@@ -8,7 +8,7 @@ import org.springframework.data.relational.core.mapping.Table;
 
 import java.time.Instant;
 
-@Table(name = "check")
+@Table(name = "YW_CHECK")
 @NoArgsConstructor
 public class CheckEntity  {
     @Id
